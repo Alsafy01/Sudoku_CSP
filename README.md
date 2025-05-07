@@ -1,9 +1,8 @@
-
 # Sudoku CSP Solver with Arc Consistency Visualization
 
-![Sudoku GUI Demo](demo.gif) *[Add GIF]*
-
 A comprehensive Sudoku solver and interactive game implementing Constraint Satisfaction Problem (CSP) techniques with domain visualization.
+
+![Sudoku Domain Visualization](assets/1.gif)
 
 ## Table of Contents
 - [Sudoku CSP Solver with Arc Consistency Visualization](#sudoku-csp-solver-with-arc-consistency-visualization)
@@ -42,6 +41,8 @@ A comprehensive Sudoku solver and interactive game implementing Constraint Satis
 - Color-coded cell domains
 - Real-time constraint validation
 - Visual progress tracking
+
+![Sudoku Board Update](assets/2.gif)
 
 ## Installation
 
